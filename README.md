@@ -1,4 +1,4 @@
-Hi there! I'm **Oluwadurotimi Bajomo (Timmy)** 👋
+Hi there! I'm **Oluwadurotimi Bajomo** 👋
 
 I'm an experienced **DevSecOps / DevOps Engineer** and an AWS Certified professional, bringing **6+ years in IT** and **3+ years** of specialized experience in cloud infrastructure, automation, and security. My mission is to build, automate, and secure highly scalable cloud environments.
 
